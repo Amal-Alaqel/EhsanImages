@@ -4,7 +4,7 @@
   "info": {
     "singularName": "ihsan",
     "pluralName": "ihsans",
-    "displayName": "Ehsan Images",
+    "displayName": "Ihsan Images",
     "description": ""
   },
   "options": {
@@ -17,7 +17,7 @@
     },
     "Image": {
       "type": "media",
-      "multiple": true,
+      "multiple": false,
       "required": false,
       "allowedTypes": [
         "images",
